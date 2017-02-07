@@ -1,4 +1,4 @@
-package factory.pizza;
+package simpleFactory.pizza;
 
 public abstract class Pizza {
 

@@ -1,8 +1,8 @@
-package factory;
+package simpleFactory;
 
-import factory.pizza.CheesePizza;
-import factory.pizza.GreekPizza;
-import factory.pizza.Pizza;
+import simpleFactory.pizza.CheesePizza;
+import simpleFactory.pizza.GreekPizza;
+import simpleFactory.pizza.Pizza;
 
 public class SimplePizzaFactory {
 

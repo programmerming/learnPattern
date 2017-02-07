@@ -1,6 +1,6 @@
-package factory.pizza;
+package simpleFactory.pizza;
 
-public class GreekPizza extends Pizza {
+public class CheesePizza extends Pizza {
 
 	@Override
 	public void prepare() {
